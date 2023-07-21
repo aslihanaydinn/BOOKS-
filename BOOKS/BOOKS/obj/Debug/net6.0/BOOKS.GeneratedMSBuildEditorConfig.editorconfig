@@ -1,0 +1,185 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BOOKS
+build_property.RootNamespace = BOOKS
+build_property.ProjectDir = C:\Users\Aslıhan\source\repos\BOOKS\BOOKS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aslıhan\source\repos\BOOKS\BOOKS
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/ClassicBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NpY0Jvb2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/ClassicBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NpY0Jvb2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/ClassicBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NpY0Jvb2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/ClassicBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NpY0Jvb2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/ClassicBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xhc3NpY0Jvb2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/DystopianBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHlzdG9waWFuQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/DystopianBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHlzdG9waWFuQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/DystopianBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHlzdG9waWFuQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/DystopianBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHlzdG9waWFuQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/DystopianBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHlzdG9waWFuQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/FantasticBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzdGljQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/FantasticBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzdGljQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/FantasticBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzdGljQm9va3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/FantasticBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzdGljQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/FantasticBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFudGFzdGljQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PhilosophyBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbG9zb3BoeUJvb2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PhilosophyBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbG9zb3BoeUJvb2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PhilosophyBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbG9zb3BoeUJvb2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PhilosophyBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbG9zb3BoeUJvb2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PhilosophyBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhpbG9zb3BoeUJvb2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PoemBooks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9lbUJvb2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PoemBooks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9lbUJvb2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PoemBooks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9lbUJvb2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PoemBooks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9lbUJvb2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/PoemBooks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9lbUJvb2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aslıhan/source/repos/BOOKS/BOOKS/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-63g915xd34

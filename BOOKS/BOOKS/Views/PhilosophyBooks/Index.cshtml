@@ -1,0 +1,50 @@
+﻿@model IEnumerable<BOOKS.Models.PhilosophyBooks>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Philosophy Books</h1>
+@if (TempData["keyMessage5"] != null)
+{
+    <h3>@TempData["keyMessage5"]</h3>
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedDateTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var obj in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelObj => obj.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelObj => obj.AuthorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelObj => obj.CreatedDateTime)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@obj.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@obj.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@obj.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
